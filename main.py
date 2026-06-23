@@ -124,6 +124,5 @@ def main():
         except ValueError:
             print("Entrada inválida. Por favor, tente novamente.")
 
-# O "Gatilho" final:
 if __name__ == "__main__":
     main()
